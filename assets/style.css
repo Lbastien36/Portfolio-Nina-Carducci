@@ -117,7 +117,7 @@ h5 {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: rgb(28, 100, 116);
 	border-radius: 0;
 }
 
